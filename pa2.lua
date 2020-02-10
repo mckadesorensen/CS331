@@ -27,13 +27,11 @@ end
 
 -- Write what it does
 function pa2.collatz()
-  -- Figue the what f**K you need to do.
 end
 
 
 -- Write what it does
 function pa2.allSubs()
-  -- Figue the what f**K you need to do.
 end
 
 
